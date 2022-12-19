@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "sonorandesert:item/prickly_pear_seeds",
+		"particle": "sonorandesert:item/prickly_pear_seeds"
+	}
+}

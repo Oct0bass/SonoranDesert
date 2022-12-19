@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"layer0": "sonorandesert:block/brittlebush",
+		"particle": "sonorandesert:block/brittlebush"
+	},
+	"display": {}
+}

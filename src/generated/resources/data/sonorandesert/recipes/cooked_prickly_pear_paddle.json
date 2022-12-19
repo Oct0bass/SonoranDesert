@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "sonorandesert:prickly_pear_paddle"
+  },
+  "result": "sonorandesert:cooked_prickly_pear_paddle"
+}

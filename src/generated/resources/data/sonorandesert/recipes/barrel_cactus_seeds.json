@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonorandesert:barrel_cactus_fruit"
+    }
+  ],
+  "result": {
+    "item": "sonorandesert:barrel_cactus_seeds"
+  }
+}

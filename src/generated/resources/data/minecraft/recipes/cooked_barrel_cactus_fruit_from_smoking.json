@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "sonorandesert:barrel_cactus_fruit"
+  },
+  "result": "sonorandesert:cooked_barrel_cactus_fruit"
+}
