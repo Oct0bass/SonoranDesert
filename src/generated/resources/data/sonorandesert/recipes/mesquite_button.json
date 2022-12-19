@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "sonorandesert:mesquite_planks"
+    }
+  ],
+  "result": {
+    "item": "sonorandesert:mesquite_button"
+  }
+}
