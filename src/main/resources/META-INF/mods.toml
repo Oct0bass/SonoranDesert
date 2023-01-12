@@ -48,3 +48,9 @@ Adds sonoran desert to Minecraft
     versionRange="[1.19,)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.sonorandesert]]
+    modId="terrablender"
+    mandatory=true
+    versionRange="[2.0.0.120,)"
+    ordering="NONE"
+    side="BOTH"
